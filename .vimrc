@@ -16,6 +16,8 @@ set hlsearch
 set laststatus=2
 " open mouse
 set mouse=a
+" auto generate word in buttom command line
+set wildmenu
 
 " auto generate the pair 
 inoremap ( ()<Esc>i
